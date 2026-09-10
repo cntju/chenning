@@ -24,7 +24,7 @@ links:
   orcid: ""
   linkedin: ""
   researchgate: ""
-  cv: "/files/Chen_Ning_CV.pdf"
+  #cv: "/files/Chen_Ning_CV.pdf"
 
 # Navigation. JOIN US is intentionally prominent.
 nav_pages:
