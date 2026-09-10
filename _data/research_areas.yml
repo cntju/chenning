@@ -1,0 +1,41 @@
+- title: "Resilient IoT & IIoT"
+  slug: "resilient-iot"
+  summary: "Keeping industrial and IoT services available when devices, links or gateways fail."
+  question: "How can an IoT topology recover quickly without expensive global re-optimization?"
+  description: "I study topology robustness, service continuity, local rewiring and online repair for dynamic IoT and industrial IoT systems. The goal is to design recovery mechanisms that are efficient enough for real deployments while preserving structural and operational constraints."
+  tags: ["IoT", "IIoT", "Topology Repair", "Network Resilience"]
+
+- title: "AI for Networking"
+  slug: "ai-for-networking"
+  summary: "Learning network-control policies that generalize across topologies, failures and operating conditions."
+  question: "How can learning support network decisions without sacrificing feasibility, safety or interpretability?"
+  description: "This direction combines graph learning, reinforcement learning, federated learning and agentic decision processes with explicit networking constraints. I am particularly interested in learning useful decision priors while keeping online actions lightweight and verifiable."
+  tags: ["Graph Learning", "Multi-Agent RL", "Federated Learning", "Agentic Networking"]
+
+- title: "Edge Intelligence"
+  slug: "edge-intelligence"
+  summary: "Placing and reusing edge resources under heterogeneous delay, demand and capacity requirements."
+  question: "How can edge infrastructure adapt to heterogeneous users without systematic over-provisioning?"
+  description: "I investigate request-aware edge deployment, workload clustering, resource reuse and delay-sensitive placement. The broader goal is to jointly improve service quality and infrastructure efficiency."
+  tags: ["Edge Computing", "Placement", "QoS", "Resource Optimization"]
+
+- title: "Autonomous Self-Healing"
+  slug: "self-healing"
+  summary: "Network agents that sense damage, coordinate locally and execute safe repair actions online."
+  question: "Can networks repair themselves using local information while maintaining global service objectives?"
+  description: "I explore online self-healing loops that combine topology fingerprints, incident memory, distributed coordination and structural safety checks. The focus is practical recovery after disturbances rather than only pre-deployment robustness."
+  tags: ["Self-Healing", "Distributed Agents", "Online Recovery", "Safety"]
+
+- title: "Complex Network Robustness"
+  slug: "complex-networks"
+  summary: "Understanding cascading failures and identifying small structural changes with large robustness gains."
+  question: "Which nodes and paths trigger disproportionate system-level failures, and how should we reinforce them?"
+  description: "This work studies cascading dynamics, black-swan vulnerabilities, motif-level structure, global efficiency and demand-aware path enhancement in large-scale networks."
+  tags: ["Complex Networks", "Cascading Failures", "Motifs", "Robustness"]
+
+- title: "Computing-Power Networks"
+  slug: "computing-power-networks"
+  summary: "Robust networking for distributed AI services with capacity-constrained workload redistribution."
+  question: "How should computing and communication infrastructure respond when failures shift workloads across the network?"
+  description: "I study capacity-aware failure dynamics and robustness enhancement for computing-power networks, where connectivity alone is insufficient and workload redistribution can create secondary overloads."
+  tags: ["Computing Power Networks", "AI Infrastructure", "Capacity", "Reliability"]

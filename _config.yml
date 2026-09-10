@@ -1,0 +1,64 @@
+# ============================================================
+# Chen Ning Academic Homepage — site configuration
+# Edit this file for your name, affiliation and profile links.
+# ============================================================
+
+name: "Chen Ning"
+title: "MSCA Postdoctoral Fellow"
+institution: "University of Exeter"
+email: "YOUR_EMAIL@exeter.ac.uk"
+photo: "/images/profile-placeholder.svg"
+
+# Main research positioning shown across the site
+tagline: "Intelligent, Autonomous & Resilient Networked Systems"
+description: "Academic homepage of Chen Ning — IoT, network resilience, edge intelligence, AI for networking, and topology optimization."
+
+# Replace YOUR_GITHUB_USERNAME after creating the repository.
+url: "https://YOUR_GITHUB_USERNAME.github.io"
+baseurl: ""
+
+# Public profile links. Leave a value blank to hide it.
+links:
+  google_scholar: "https://scholar.google.com/citations?user=QBz7NS0AAAAJ"
+  github: "https://github.com/YOUR_GITHUB_USERNAME"
+  orcid: ""
+  linkedin: ""
+  researchgate: ""
+  cv: "/files/Chen_Ning_CV.pdf"
+
+# Navigation. JOIN US is intentionally prominent.
+nav_pages:
+  - name: "Home"
+    url: "/"
+  - name: "Research"
+    url: "/research/"
+  - name: "Publications"
+    url: "/publications/"
+  - name: "People"
+    url: "/people/"
+  - name: "News"
+    url: "/news/"
+  - name: "Join Us"
+    url: "/join/"
+    highlight: true
+
+# Build settings
+markdown: kramdown
+highlighter: rouge
+permalink: pretty
+include:
+  - _pages
+exclude:
+  - README.md
+  - LICENSE
+  - serve.sh
+  - CHANGE_ME_FIRST.md
+
+# GitHub Pages-supported plugins only.
+plugins:
+  - jekyll-seo-tag
+  - jekyll-sitemap
+
+# Optional analytics
+analytics:
+  google_id: ""

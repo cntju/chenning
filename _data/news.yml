@@ -1,0 +1,16 @@
+# Put newest news first. Suggested format: YYYY.MM
+- date: "2026.09"
+  category: "Website"
+  text: "New academic homepage and recruitment page launched."
+
+- date: "2026"
+  category: "Publication"
+  text: "CuIoT appeared in IEEE Transactions on Knowledge and Data Engineering."
+
+- date: "2026"
+  category: "Publication"
+  text: "LEGO-Motif appeared in IEEE Transactions on Systems, Man, and Cybernetics: Systems."
+
+- date: "2025"
+  category: "Publication"
+  text: "Work on fast robustness enhancement for dynamic IIoT topology appeared in IEEE Transactions on Mobile Computing."

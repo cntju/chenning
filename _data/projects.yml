@@ -1,0 +1,24 @@
+- name: "OASIS-IIoT"
+  category: "ONLINE SELF-HEALING"
+  summary: "An online agentic self-healing framework for dynamic industrial IoT networks, using topology fingerprints, local coordination and safe structural actions."
+  focus: "Failure recovery, decentralized agents, topology fingerprints, structural validation"
+
+- name: "Equalizer"
+  category: "COMPUTING-POWER NETWORKS"
+  summary: "A robustness framework that models capacity-aware workload redistribution, identifies cascade-inducing black-swan nodes, and strengthens critical backup paths."
+  focus: "Cascading failures, capacity dynamics, vulnerability ranking, path enhancement"
+
+- name: "TriageEdge"
+  category: "EDGE INTELLIGENCE"
+  summary: "Request-delay-aware edge server deployment that groups heterogeneous workloads and improves infrastructure reuse under delay and capacity constraints."
+  focus: "Edge placement, heterogeneous QoS, traffic clustering, server reuse"
+
+- name: "TaaSMo"
+  category: "AIR–GROUND NETWORKS"
+  summary: "Motif-driven service-topology repair for collaborative drone-and-rider delivery networks under local failures and resource constraints."
+  focus: "Temporal heterogeneous graphs, local topology patches, multi-agent coordination"
+
+- name: "Fed-CSTrans"
+  category: "FEDERATED NETWORK LEARNING"
+  summary: "Federated cross-scale transfer of topology-rewiring knowledge across heterogeneous industrial networks while keeping local repair traces private."
+  focus: "Federated learning, topology rewiring, non-IID networks, cross-scale generalization"

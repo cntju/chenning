@@ -1,0 +1,35 @@
+# Keep newest publications first. Replace/add complete bibliographic details as needed.
+# Set featured: true to show a paper on the homepage.
+
+- year: 2026
+  type: "Journal"
+  title: "CuIoT"
+  authors: "Chen Ning et al."
+  venue: "IEEE Transactions on Knowledge and Data Engineering (TKDE)"
+  note: "Replace this short title/author line with the complete citation from your publication record."
+  url: ""
+  doi: ""
+  code: ""
+  featured: true
+
+- year: 2026
+  type: "Journal"
+  title: "LEGO-Motif"
+  authors: "Chen Ning et al."
+  venue: "IEEE Transactions on Systems, Man, and Cybernetics: Systems"
+  note: "Replace this short title/author line with the complete citation from your publication record."
+  url: ""
+  doi: ""
+  code: ""
+  featured: true
+
+- year: 2025
+  type: "Journal"
+  title: "Fast Robustness Enhancement for Dynamic IIoT Topology With Adaptive Bayesian Learning"
+  authors: "Chen Ning et al."
+  venue: "IEEE Transactions on Mobile Computing (TMC)"
+  note: "Add DOI/PDF/code links when available."
+  url: ""
+  doi: ""
+  code: ""
+  featured: true

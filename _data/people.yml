@@ -1,0 +1,16 @@
+- name: "Chen Ning"
+  role: "MSCA Postdoctoral Fellow · University of Exeter"
+  photo: "/images/profile-placeholder.svg"
+  bio: "Researcher working on intelligent and resilient networked systems, with interests spanning IoT, network robustness, edge intelligence, topology optimization and AI for networking."
+  interests: "IoT/IIoT; network resilience; edge intelligence; complex networks; AI for networking"
+  scholar: "https://scholar.google.com/citations?user=QBz7NS0AAAAJ"
+  github: "https://github.com/YOUR_GITHUB_USERNAME"
+
+# Add future members by copying the block below and removing the leading # characters.
+# - name: "Student Name"
+#   role: "PhD Student"
+#   photo: "/images/student-name.jpg"
+#   bio: "Short biography."
+#   interests: "Research topics"
+#   scholar: ""
+#   github: ""
